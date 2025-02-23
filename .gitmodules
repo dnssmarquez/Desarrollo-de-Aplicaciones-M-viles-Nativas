@@ -1,3 +1,9 @@
 [submodule "Tareas/Tarea2/Tarea2moviles"]
 	path = Tareas/Tarea2/Tarea2moviles
 	url = https://github.com/dnssmarquez/Tarea2moviles.git
+[submodule "Tareas/SistemaSolar"]
+	path = Tareas/SistemaSolar
+	url = https://github.com/dnssmarquez/SistemaSolar.git
+[submodule "Tareas/Tarea2/SistemaSolar"]
+	path = Tareas/Tarea2/SistemaSolar
+	url = https://github.com/dnssmarquez/SistemaSolar.git
